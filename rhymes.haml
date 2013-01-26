@@ -1,0 +1,8 @@
+.word
+  = word.upcase
+.rhymes
+  = @rhymes.empty? ? "Sorry, cannor rhyme \"#{word}\"" : @rhymes.join(', ')
+.submit
+  %form{action: '/'}
+    %input{id: 'word', name: 'word', type: 'text'}
+    %input{type: 'submit', name: 'submit', value: 'Get Rhymes'}

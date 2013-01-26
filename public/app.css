@@ -1,0 +1,23 @@
+body {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  color: #669;
+  background-position: center top;
+  background-color: #ddd;
+  text-align: center;
+  margin: 20px;
+  padding: 0; }
+
+.word {
+	font-size: 1.5em;
+}
+
+.rhymes {
+	font-size: 0.9em;
+	text-decoration: italic;
+}
+
+.submit {
+  margin-top: 2em;
+  font-size: 1.1em;
+}
+
