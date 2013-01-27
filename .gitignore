@@ -1,3 +1,6 @@
 etc
 data/cmudict.0.7a
 .rvmrc
+config
+tmp
+log
