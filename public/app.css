@@ -8,7 +8,7 @@ body {
   padding: 0; }
 
 .word {
-	font-size: 1.5em;
+	font-size: 1.2em;
 }
 
 .rhymes {
@@ -16,8 +16,8 @@ body {
 	text-decoration: italic;
 }
 
-.submit {
-  margin-top: 2em;
-  font-size: 1.1em;
+.submit input {
+  font-size: 1.2em;
+  margin-bottom: 20px;
 }
 
