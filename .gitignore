@@ -1,6 +1,7 @@
 etc
 data/cmudict.0.7a
-.rvmrc
+.ruby*
 config
 tmp
 log
+Gemfile.lock
